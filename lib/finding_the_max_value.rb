@@ -6,5 +6,5 @@ def find_max_value(array)
        max_val = item
     end
   end
-
+  max_val
 end
